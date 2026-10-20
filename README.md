@@ -2,7 +2,7 @@ Austin Animal Center Analysis
 
     Project Overview
 
-        This project analyzes animal outcome data from the Austin Animal Center, downloaded form data.gov, using Microsoft Excel. The goal is to evaluate shelter         performance, animal outcomes, breed distribution, and euthanasia reasons.
+        This project analyzes animal outcome data from the Austin Animal Center, downloaded from data.gov, using Microsoft Excel. The goal is to evaluate shelter         performance, animal outcomes, breed distribution, and euthanasia reasons.
         The dashboard provides insights into adoption outcomes, shelter duration, breed distribution, and euthanasia causes while demonstrating Excel-based               reporting and data visualization skills.
 
     Objectives
